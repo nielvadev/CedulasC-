@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\DesApp\ListaCédulas\bin\Debug\net6.0-windows\ListaCédulas.exe
+C:\Users\danie\source\repos\DesApp\ListaCédulas\bin\Debug\net6.0-windows\ListaCédulas.deps.json
+C:\Users\danie\source\repos\DesApp\ListaCédulas\bin\Debug\net6.0-windows\ListaCédulas.runtimeconfig.json
+C:\Users\danie\source\repos\DesApp\ListaCédulas\bin\Debug\net6.0-windows\ListaCédulas.dll
+C:\Users\danie\source\repos\DesApp\ListaCédulas\bin\Debug\net6.0-windows\ListaCédulas.pdb
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.Cedulas.resources
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.AssemblyInfo.cs
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.dll
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\refint\ListaCédulas.dll
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.pdb
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ListaCédulas.genruntimeconfig.cache
+C:\Users\danie\source\repos\DesApp\ListaCédulas\obj\Debug\net6.0-windows\ref\ListaCédulas.dll
